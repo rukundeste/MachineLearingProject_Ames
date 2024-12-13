@@ -24,3 +24,6 @@ Select the best model based on the cross-validation score.
 For an easy visualization of my project, I put together a Google Slides presentation. View it here: https://docs.google.com/presentation/d/17ylqWqy5LU5A5rxQHbmiaxig7eebLOaa/edit?usp=sharing&ouid=108885081356220755570&rtpof=true&sd=true
 
 
+Thanking you again.
+
+
